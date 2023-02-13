@@ -12,6 +12,7 @@ html {
 .app__videos {
     position: relative;
     height: 500px;
+    width: 300px;
     margin: 50px;
     border-radius: 20px;
     /* width: 80%; */
@@ -19,6 +20,8 @@ html {
     /* min-height: 100%; */
     scroll-snap-type: y mandatory;
 }
+
+.app__videos> {}
 
 .app__videos::-webkit-scrollbar {
     display: none;
