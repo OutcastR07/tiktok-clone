@@ -11,7 +11,7 @@ function App() {
           messages={71}
           shares={33}
           channel="sadmanR07"
-          description="Beautiful view of hot air-balloon"
+          description="View of hot air-balloon"
           song="Jodi tor daak shune keu na ashe"
         />
         <Video
@@ -21,7 +21,7 @@ function App() {
           shares={23}
           channel="rahman99"
           description="Airplane ride on a holiday"
-          song="Hall of Fame"
+          song="Hall of Fame - The Script"
         />
       </div>
 
